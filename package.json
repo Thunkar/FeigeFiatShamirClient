@@ -1,0 +1,14 @@
+{
+  "name": "FeigeFiatShamirClient",
+  "version": "0.0.0",
+  "description": "FeigeFiatShamirClient",
+  "main": "client.js",
+  "author": {
+    "name": "grego",
+    "email": ""
+  },
+  "dependencies": {
+    "big-integer": "^1.6.10",
+    "winston": "^2.1.1"
+  }
+}
